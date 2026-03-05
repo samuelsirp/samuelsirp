@@ -47,18 +47,6 @@ Building tools, experimenting with blockchain, and shipping projects on the web.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=samuelsirp&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsirp&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📂 Featured Projects
 
 - 🔗 Smart contract experiments
