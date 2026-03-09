@@ -2,7 +2,7 @@
 
 # Hey, I'm Samuel 👋
 
-### Full Stack & Blockchain Developer
+### Full Stack & Blockchain Developeer
 
 *Building scalable systems, APIs, automation tools, and decentralized apps.*
 
